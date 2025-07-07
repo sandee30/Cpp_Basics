@@ -24,4 +24,4 @@ Passing by value/reference/pointer, function overloading in C++, and understandi
 Stack vs Heap, scope & lifetime, static/global memory, and how variables are actually arranged in RAM.
 
 
-
+This repo contains questions related to Dynamic Memory Allocation, Functions (Overloading, Inline, Pass by Reference, Return by Reference), Namespace, Reference Variables, Structures, Arrays, Pointers.
