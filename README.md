@@ -25,3 +25,37 @@ Stack vs Heap, scope & lifetime, static/global memory, and how variables are act
 
 
 This repo contains questions related to Dynamic Memory Allocation, Functions (Overloading, Inline, Pass by Reference, Return by Reference), Namespace, Reference Variables, Structures, Arrays, Pointers.
+
+**Questions:**
+
+1. Write a program to find the positions of the character entered by the user from the sentence "idea without execution is worthless" using a pointer and string(array of characters).
+
+
+2. Using Dynamic Memory Allocation, Store and retrieve the name of the N students and obtained marks of Maths in 1st semester using structure. Also, sort the array of structures in     ascending order on the basis of their obtained math marks as well as on the basis of their name in ascending order. Make two separate functions for sorting.
+ 
+3. Write a program that dynamically allocates memory for an array of integers. Ask the user for the size and values. Then calculate and display the average of all numbers entered.
+
+
+4. Write a program to dynamically allocate memory for a 2D array (matrix), take user input, and print the transpose of the matrix.
+
+  
+5. Define two namespaces: Square and Cube. In both the namespaces, define an integer variable named "num" and a function named "fun". The "fun" function in the "Square" namespace, should return the square of an integer passed as an argument while the "fun" function in the "Cube" namespace, should return the cube of an integer passed as an argument. In the main function, set the integer variables "num" of both the namespaces with different values. Then, compute and print the cube of the integer variable "num" of the "Square" namespace using the "fun" function of the "Cube" namespace and the square of the integer variable "num" of the "Cube" namespace using the "fun" function of the "Square" namespace.
+
+6. Write a function that passes two temperatures by reference and sets the larger of the two numbers to a value entered by the user by using return by reference.
+
+7. Write a program using the function overloading that converts feet to inches. Use a function with no argument, one argument and two arguments. Decide yourself the types of arguments. Use pass by reference in any one of the functions above.
+
+8. Assume that the employee will have to pay 10 percent income tax to the government. Ask users to enter the employee salary. Use an inline function to display the net payment to the   employee by the company.
+
+9.  Write a program to set a structure to hold a date (mm,dd and yy), assign values to the members of the structure and print out the values in the format 11/28/2004 by function. Pass the structure to the function.
+
+10. Write function reverseArray() that reverses the elements of an integer array using reference parameters (pointer or reference to array).
+
+11. Create overloaded functions max() to return the maximum of: 
+     Two integers 
+     Two floats 
+     Three integers
+
+12. Write a program to read the name, rollno, address, and phone number of each student in your class using structure. Store the information in file so that you can recover the information later. While recovering the information from the file, sort the information alphabetically according to the name.
+
+**Note : ** The solution programs of above questions are sequentially available in this repo with the file name 1,2,3... according to the question number.
